@@ -1,0 +1,47 @@
+[
+    {
+        "screenName": "Screen OnBoarding - 0"
+    },
+    {
+        "event": "clickTopNav",
+        "eventCategory": "top nav - \/",
+        "eventAction": "click search box",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickTopNav",
+        "eventCategory": "top nav - \/",
+        "eventAction": "click search box",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click wishlist",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click inbox",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click notification",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickHomepage",
+        "eventCategory": "homepage bottom nav",
+        "eventAction": "click homepage nav",
+        "eventLabel": ""
+    },
+    {
+        "event": "clickHomepage",
+        "eventCategory": "homepage bottom nav",
+        "eventAction": "click homepage nav",
+        "eventLabel": ""
+    }
+]

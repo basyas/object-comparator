@@ -1,0 +1,35 @@
+{
+    "onboarding": {
+        "screenName": "Screen OnBoarding - {}"
+    },
+    "click search": {
+        "event": "clickTopNav",
+        "eventCategory": "top nav - {}",
+        "eventAction": "click search box{}",
+        "eventLabel": "{}"
+    },
+    "click wishlist": {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click wishlist",
+        "eventLabel": ""
+    },
+    "click inbox": {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click inbox",
+        "eventLabel": ""
+    },
+    "click notification": {
+        "event": "clickTopNav",
+        "eventCategory": "top nav",
+        "eventAction": "click notification",
+        "eventLabel": ""
+    },
+    "click homepage": {
+        "event": "clickHomepage",
+        "eventCategory": "homepage bottom nav",
+        "eventAction": "click homepage nav",
+        "eventLabel": ""
+    }
+}
