@@ -21,27 +21,30 @@
         "eventLabel": ""
     },
     {
-        "event": "clickTopNav",
-        "eventCategory": "top nav",
-        "eventAction": "click inbox",
-        "eventLabel": ""
-    },
-    {
-        "event": "clickTopNav",
-        "eventCategory": "top nav",
-        "eventAction": "click notification",
-        "eventLabel": ""
-    },
-    {
-        "event": "clickHomepage",
-        "eventCategory": "homepage bottom nav",
-        "eventAction": "click homepage nav",
-        "eventLabel": ""
-    },
-    {
-        "event": "clickHomepage",
-        "eventCategory": "homepage bottom nav",
-        "eventAction": "click homepage nav",
-        "eventLabel": ""
+        "event": "product",
+        "eventCategory": "clickProduct",
+        "eventAction": "click product image",
+        "eventLabel": "product asus rog",
+        "product": [
+            {
+                "id": 10,
+                "name": "asus rog phone 2",
+                "dimension": [
+                    {
+                        "height": 10,
+                        "width": 15
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "dimension": [
+                    {
+                        "height": 10,
+                        "width": 15
+                    }
+                ]
+            }
+        ]
     }
 ]

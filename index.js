@@ -267,4 +267,4 @@ class ValidatorEntity {
 const validator = new ValidatorEntity();
 const result = validator.validate(R_actual, R_expected);
 
-console.log(JSON.stringify(result, null, 2));
+console.log(JSON.stringify(result, null, 4));

@@ -20,16 +20,23 @@
         "eventAction": "click inbox",
         "eventLabel": ""
     },
-    "click notification": {
-        "event": "clickTopNav",
-        "eventCategory": "top nav",
-        "eventAction": "click notification",
-        "eventLabel": ""
-    },
-    "click homepage": {
-        "event": "clickHomepage",
-        "eventCategory": "homepage bottom nav",
-        "eventAction": "click homepage nav",
-        "eventLabel": ""
+    "click product": {
+        "event": "product",
+        "eventCategory": "clickProduct",
+        "eventAction": "click product {}",
+        "eventLabel": "{}",
+        "product": [
+            {
+                "id": "IsNotNullOrUndefined",
+                "category": "electronic",
+                "name": "samsung {}",
+                "dimension": [
+                    {
+                        "height": "IsNotNullOrUndefined",
+                        "width": "IsNotNullOrUndefined"
+                    }
+                ]
+            }
+        ]
     }
 }
